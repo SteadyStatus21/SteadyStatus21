@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/steadystatus21](https://github.com/steadystatus21)
 
-- 📫 How to reach me **steadystatus21@gmail.com** or on Discord: **@steadystatus21**
+- 📫 How to reach me **steady@steadystatus21.com** or on Discord: **@steadystatus21**
 
 <p align="left">
 </p>
