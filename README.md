@@ -1,14 +1,94 @@
-<h1 align="center">Hi 👋, I'm Steady!</h1>
-<h3 align="center">A passionate frontend developer from the United States!</h3>
+# SteadyStatus21
 
-- 🌱 I’m currently learning **Python and NodeJS**
+**Web Developer | Self-Hosting & Infrastructure | Cybersecurity Student**
 
-- 👨‍💻 All of my projects are available at [https://github.com/steadystatus21](https://github.com/steadystatus21)
+---
 
-- 📫 How to reach me **steady@steadystatus21.com** or on Discord: **@steadystatus21**
+## Links & Contact
 
-<p align="left">
-</p>
+- Website: https://steadystatus21.com  
+- Email: steady@steadystatus21.com  
+- Discord: SteadyStatus21  
+- GitHub: https://github.com/SteadyStatus21
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## About
+
+I am a student focused on Cybersecurity Analytics & Operations, with extensive hands-on experience in full-stack web development, automation, and self-hosted infrastructure. My work centers on building performant, secure, and maintainable systems for production websites and personal lab environments.
+
+---
+
+## Skills
+
+### Programming Languages
+- HTML5, CSS3  
+- JavaScript (ES6+)  
+- Node.js  
+- Python  
+- Java
+
+### Web Development
+- HTML5, CSS3, Tailwind CSS  
+- JavaScript (ES6+), Node.js  
+- Parcel bundler, static site builds  
+- Responsive and accessibility-first UI design
+
+### Infrastructure & DevOps
+- Nginx reverse proxy and TLS management  
+- Docker & containerized services  
+- GitHub Actions CI/CD pipelines  
+- Cloudflare tunnels and origin protection  
+- Prometheus + Grafana monitoring  
+- VPS & home-lab server management
+
+### Security & Networking
+- Fundamental cybersecurity operations and log analysis  
+- WAF configuration (BunkerWeb/Anubis)  
+- IP reputation filtering & firewall automation  
+- Fail2ban intrusion detection  
+- Secure authentication & API design patterns
+
+### Automation & Tooling
+- Bash & PowerShell scripting  
+- FFmpeg media processing pipelines  
+- Discord bots and webhooks  
+- JSON-driven configuration systems
+
+### Data & Analytics
+- Basic statistics and data analysis (STAT 200)  
+- Time-series and monitoring dashboards  
+- Research writing and technical documentation
+
+---
+
+## Notable Projects
+
+- **Public Website Development**  
+  Public-facing site with Tailwind CSS, Parcel builds, custom JSON components, and automated asset packaging.
+
+- **Self-Hosted Monitoring Stack**  
+  Multi-node Prometheus exporters feeding Grafana dashboards with alerting and security filtering.
+
+- **Automation Bots**  
+  Node-based Discord bots and webhook systems bridging third-party platforms with custom infrastructure.
+
+- **FFmpeg Toolchains**  
+  GPU-accelerated pipelines for optimized GIF/APNG/WebP conversions, blending, dithering, and crossfade animation workflows.
+
+---
+
+## Current Focus
+
+- Cybersecurity Analytics & Operations degree coursework  
+- Expanding home-lab infrastructure and monitoring  
+- Hardening public-facing services  
+- Advanced cloud workflows and API security
+
+---
+
+## Contact
+
+The best way to reach me is via email or Discord.
+
+These are listed at the top of this readme.
